@@ -1,1 +1,1 @@
-FROM openclaw/openclaw:latest
+FROM ghcr.io/openclaw/openclaw:main
