@@ -1,0 +1,11 @@
+{
+  "assistant": {
+    "name": "Ethio Sport Newswire",
+    "model": "gemini-1.5-flash"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true
+    }
+  }
+}
