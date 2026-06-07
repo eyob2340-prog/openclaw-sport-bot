@@ -1,7 +1,12 @@
 {
   "assistant": {
     "name": "Ethio Sport Newswire",
-    "model": "gemini-1.5-flash"
+    "model": "gemini-2.5-flash"
+  },
+  "gateway": {
+    "auth": {
+      "token": "my-secret-token-12345"
+    }
   },
   "channels": {
     "telegram": {
